@@ -1,9 +1,10 @@
 # CS sophomore at Bilkent University
 * I can print hello world on a terminal. That must be something
-* I don't like coffee but I love Java
-* I am a programmer but I don't know C++ (yet)
-* I have had the opportunity of developing an Android app with a spaghetti code and no regard for a proper design structure 
-* I call myself an algorithm enthusiast because it is a cool pair of words
+* Coffee is my arch nemesis. But Java is my guilty pleasure
+* I call myself a programmer but I don't know C++ as well as you
+* I have had the opportunity of developing an Android app with a spaghetti code and no regard for a proper design structure
+* I have had another opportunity to redeem myself with two other Android apps. They were less noodly. So it's a success!
+* I am an algorithm enthusiast because it is a cool pair of words
 * I think Python is a **sin** but I still have to use it from time to time :(
 * I tell people that I run even though I haven't really run for a year
 * I have a cool bicycle but my mom doesn't want me to use it outside the uni campus
