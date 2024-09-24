@@ -1,4 +1,4 @@
-# CS junior at Bilkent University
+# CS senior at Bilkent University
 * I can print hello world on a terminal. That must be something
 * Coffee is my arch nemesis. But Java is my guilty pleasure
 * I call myself a programmer but I don't know C++ as well as you
